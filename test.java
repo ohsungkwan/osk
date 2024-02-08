@@ -1,3 +1,3 @@
 public void main(String[] args) {
-    System.out.println("aaa]bbbcccddd");
+    System.out.println("aaa]bbbccc");
 }
